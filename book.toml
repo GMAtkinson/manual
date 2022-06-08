@@ -1,0 +1,6 @@
+[book]
+authors = ["GMAtkinson"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Radar Manual"
